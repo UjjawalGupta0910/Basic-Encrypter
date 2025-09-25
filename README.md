@@ -1,6 +1,6 @@
 # Basic-Encrypter:
 
-Basic-Encrypter is a simple Python script that encodes letters into numbers.
+Basic-Encrypter is a simple Python script that encodes letters into numbers and saves the encrypted text into a file. 
 
 ### For ex-
 
@@ -18,10 +18,10 @@ Basic-Encrypter is a simple Python script that encodes letters into numbers.
 
   z -> 26
 
-## Current Status:
+## Current Staus: 
 
-This is an early version.
+This is the first version. 
 
-The script currently saves the output to a predefined file path (hardcoded inside the script).
+See releases to install.
 
-It is not yet packaged, so it only works properly on my system.
+The file is created in the user's home directory itself. 
