@@ -20,7 +20,7 @@ Basic-Encrypter is a simple Python script that encodes letters into numbers and 
 
 ## Current Staus: 
 
-This is the first version. 
+This is the first version, currently works only on 64-bit linux systems.
 
 See releases to install.
 
